@@ -2,5 +2,9 @@ feature_1
 新版本
 hello
 hello
+<<<<<<< Updated upstream
 修复补丁
 
+=======
+修复补丁
+>>>>>>> Stashed changes
